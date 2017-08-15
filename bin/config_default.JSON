@@ -1,0 +1,37 @@
+{
+    "CompressedSensing":
+    {
+        "min_mz": 100.0,
+        "max_mz": 1500.0,
+        "delta": 0.1,
+        "sample": 2000,
+        "train_only": false,
+        "test_only": false,
+        "train_mgf": "demo_train.mgf",
+        "test_mgf": "demo_test.mgf"
+    },
+    "DeepLearning":
+    {
+        "train_label": "",
+        "test_label": "",
+        "use_mlp": true,
+        "use_cnn": false,
+        "mlp":
+        {
+            "nh": 30,
+            "lr": 0.001,
+            "batch": 64
+        },
+        "cnn":
+        {
+            "lr": 0.001,
+            "batch": 64
+        }
+    },
+    "GradientBoosting":
+    {
+        "novor_train": "",
+        "novor_test": "",
+        "round": 30
+    }
+}
