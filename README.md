@@ -20,6 +20,7 @@ Four requirements are needed to compile the source code:
 The precompiled binary can be found in bin directory.
 
 ### Running
+Fill in the Config.json file and run as:
 ```
 CompressedSensing.exe Config.json
 ```
