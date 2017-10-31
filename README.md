@@ -1,6 +1,6 @@
 # DeepQuality
 
- <img src="https://github.com/horsepurve/DeepQuality/blob/master/img/figure_1.png" width = "800" height = "400" alt="figure_1" align=center />
+ <img src="https://github.com/horsepurve/DeepQuality/blob/master/img/figure_1.png" alt="figure_1" align=center />
 
 
 
