@@ -17,7 +17,7 @@ Four requirements are needed to compile the source code:
 4. OpenBLAS: http://www.openblas.net/
 
 ### Binary
-You can find the precompiled binary in bin directory.
+The precompiled binary can be found in bin directory.
 
 ### Running
 ```
