@@ -4,7 +4,7 @@
 arxiv:
 
 ## Introduction
-The following figure shows the pipeline of DeepQuality algorithm. Generally, modern mass spectrometers have a mass range of 0~2000 Dalton and accuracy of 0.01 Dalton, and generate mass spectra containing roughly several hundred peaks, resulting in highly sparse signals (left panel). Compressed Sensing (CS) theory, mathematically, can recover signals with certain sparsity from far few samples then acquired by the Nyquist rate, and thus we combine CS and deep learning for end-to-end mass spectrum quality assessment (central panel). On two publicly  datasets, DeepQuality achieved AUC of **0.96** and **0.92**, significantly surpass other software (right panel).
+The following figure shows the pipeline of DeepQuality algorithm. Generally, modern mass spectrometers have a mass range of 0~2000 Dalton and accuracy of 0.01 Dalton, and generate mass spectra containing roughly several hundred peaks, resulting in highly sparse signals (left panel). Compressed Sensing (CS) theory, mathematically, can recover signals with certain sparsity from far few samples then acquired by the Nyquist rate, and thus we combine CS and deep learning for end-to-end mass spectrum quality assessment (central panel). On two publicly  datasets, DeepQuality achieved AUC of **0.96** and **0.92**, significantly surpasses other software (right panel).
  <img src="https://github.com/horsepurve/DeepQuality/blob/master/img/figure_1.png" alt="figure_1" align=center />
 
 ## Usage
