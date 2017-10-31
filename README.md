@@ -1,5 +1,5 @@
 # DeepQuality
-=============
+
 ## Preprint
 
 ## Introduction
