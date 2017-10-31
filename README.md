@@ -1,4 +1,4 @@
-# DeepQuality
+# DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning
 
 ## Preprint
 arxiv:
