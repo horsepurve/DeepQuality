@@ -10,7 +10,7 @@ The following figure shows the pipeline of DeepQuality algorithm. Generally, mod
 ## Usage
 
 ### Build from source
-Four requirements are needed to compile the source code:
+Four requirements are needed to compile the source code and run the software:
 1. rapidjson: https://github.com/miloyip/rapidjson
 2. mshadow: https://github.com/dmlc/mshadow
 3. MXNet: https://github.com/apache/incubator-mxnet
