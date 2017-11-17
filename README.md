@@ -10,7 +10,7 @@ The following figure shows the pipeline of DeepQuality algorithm. Generally, mod
 ## Usage
 
 ### Datasets
-The two datasets used here is from the [paper](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200500309/abstract) and can be downloaded at [here](http://services.cbu.uib.no/software//spectrumquality).
+The two datasets used here is from the [paper](http://onlinelibrary.wiley.com/doi/10.1002/pmic.200500309/abstract) and can be downloaded [here](http://services.cbu.uib.no/software//spectrumquality).
 
 ### Build from source
 Four requirements are needed to compile the source code and run the software:
