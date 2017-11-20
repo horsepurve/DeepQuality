@@ -29,4 +29,4 @@ CompressedSensing.exe Config.json
 ```
 
 ## contact
-machunwei@genomics.cn
+DeepQuality is a Chunwei Ma production and is free for non-commercial use. (machunwei@genomics.cn)
