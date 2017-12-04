@@ -1,7 +1,14 @@
 # DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning
 
-## Preprint
-[arXiv:1710.11430](https://arxiv.org/abs/1710.11430) (31 Oct 2017)
+<!-- ## Preprint -->
+<!-- [arXiv:1710.11430](https://arxiv.org/abs/1710.11430) (31 Oct 2017) -->
+## Citation
+@article{ma2017deepquality,
+</br>&nbsp;&nbsp;title={DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning},
+</br>&nbsp;&nbsp;author={Ma, Chunwei},
+</br>&nbsp;&nbsp;journal={arXiv preprint arXiv:1710.11430},
+</br>&nbsp;&nbsp;year={2017}
+}
 
 ## Brief Introduction
 The following figure shows the pipeline of DeepQuality algorithm. Generally, modern mass spectrometers have a mass range of 0~2000 Dalton and accuracy of 0.01 Dalton, and generate centroid mass spectra each containing roughly several hundred peaks, resulting in highly sparse signals (left panel). Traditional methods used machine learning upon handcrafted features to distinguish between spectra of high and low quality. However, the handcrafted features are difficult to be optimized. Compressed Sensing (CS) theory, mathematically, can recover signals with certain sparsity from far few samples then acquired by the Nyquist rate, and thus we combine CS and deep learning for end-to-end mass spectrum quality assessment (central panel). On two publicly available datasets, DeepQuality achieved AUC of **0.96** and **0.92**, significantly surpasses other software (right panel).
