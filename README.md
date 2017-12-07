@@ -3,6 +3,7 @@
 <!-- ## Preprint -->
 <!-- [arXiv:1710.11430](https://arxiv.org/abs/1710.11430) (31 Oct 2017) -->
 ## Citation
+Please cite as:
 @article{ma2017deepquality,
 </br>&nbsp;&nbsp;title={DeepQuality: Mass Spectra Quality Assessment via Compressed Sensing and Deep Learning},
 </br>&nbsp;&nbsp;author={Ma, Chunwei},
